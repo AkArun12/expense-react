@@ -6,7 +6,7 @@ import NewExpense from "./components/NewExpense/NewExpense";
 let DUMMY_EXPENSE = [
   { 
     id:'e1',
-    title:"Food",
+    title:"Pizza",
     amount:10,
     date:new Date(2023,7,3)
   }
